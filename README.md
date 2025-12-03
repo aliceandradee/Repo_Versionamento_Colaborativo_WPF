@@ -72,9 +72,9 @@ Cada aluno deverá implementar **uma** das funcionalidades abaixo, seguindo a nu
 | Aluno | Nº | Funcionalidade | Status |
 |-------|----|----------------|--------|
 |Danilo | 1   |      Implementação de funcionalidade de limpar lista          |   Ok     |
-|Diulie      |  2  |  Implementação de funcionalidade de editar tarefa               |    ok     |
-|   Pedro Moura   | 3    | Implementação de funcionalidade para duplicar tarefa       |    ok    |
-
+|Diulie      |  2  |  Implementação de funcionalidade de editar tarefa               |    Ok     |
+|   Pedro Moura   | 3    | Implementação de funcionalidade para duplicar tarefa       |    Ok    |
+|  Luna   | 4    | Implementação de funcionalidade de contador de tarefas       |    Ok    |
 
 
 ---
