@@ -54,7 +54,7 @@ Cada aluno deverá implementar **uma** das funcionalidades abaixo, seguindo a nu
 5. Adicionar validação para impedir tarefas vazias
 6. Permitir mover tarefa para cima
 7. Permitir mover tarefa para baixo
-8. Marcar tarefas concluídas com cor verde
+8. Marcar tarefas concluídas com check
 9. Exportar lista de tarefas para arquivo TXT
 10. Importar lista de tarefas de arquivo TXT
 11. Criar função de pesquisa (filtro)
