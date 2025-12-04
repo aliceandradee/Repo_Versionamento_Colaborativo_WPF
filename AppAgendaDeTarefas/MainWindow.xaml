@@ -26,6 +26,14 @@
             <Button Content="Adicionar" Width="120" Height="30" Click="Adicionar_Click" />
             <Button Content="Limpar Lista" Width="120" Height="30" Click="Limpar_lista_Click" />
             <Button Content="Editar Tarefa" Width="120" Height="30" Click="Editartarefa_OnClick" />
+            <Button Content="Excluir Selecionada" Width="150" Height="30" Click="Remover_Click" Margin="10,0,0,0"/>
+            <Button Name="btnTema" 
+                    Content="Modo Escuro" 
+                    Click="btnTema_Click" 
+                    Background="LightGray"/>
+            
+            <Button Content="Ordernar A a Z" Width="120" Height="30" Click="OrdenarAaZ_OnClick"/>
+            <Button Content="Ordernar Z a A" Width="120" Height="30" Click="OrdenarZaA_OnClick"/>
             <!-- Botão duplicar tarefa -->
             <Button Content="Duplicar tarefa"
                     Width="120"
@@ -90,6 +98,10 @@
                 <Button Grid.Column="1" Content="Buscar" Width="100"
                         x:Name="BtnBuscar" Click="BtnBuscar_OnClick"/>
             </Grid>
+            
+           
+     
+            
         </StackPanel>
 
         
@@ -106,6 +118,12 @@
         <StackPanel Grid.Row="4" Orientation="Horizontal">
             <TextBlock Text="Total de Tarefas: " Margin="0,40,0,0" />
             <TextBlock x:Name="TbxContadorTarefas" Margin="2,40,0,0" />
+            
+           
         </StackPanel>
+        
+        
+       
+        
     </Grid>
 </Window>
